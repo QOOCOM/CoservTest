@@ -1,0 +1,32 @@
+{
+    "localhost": {
+        "title": "coServ",
+        "validFrom": "",
+        "validTo": "",
+        "locale": "zh",
+        "home": "/coserv/manage",
+        "theme": "index",
+        "appKeys": {
+            "wcoim": "",
+            "blogDemo": "ce51fbb8-1df6-0442-e187-3e5e0a8785b8"
+        },
+        "caCode": "blogDemo"
+    },
+    "127.0.0.1": {
+        "caCode": "work",
+        "title": "[work] WebSite",
+        "validFrom": "",
+        "validTo": "",
+        "locale": "en",
+        "home": "/index"
+    },
+    "60.249.202.170": {
+        "caCode": "work",
+        "title": "[work] WebSite",
+        "validFrom": "",
+        "validTo": "",
+        "locale": "en",
+        "home": "/index"
+    }
+
+}

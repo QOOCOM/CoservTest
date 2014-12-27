@@ -1,0 +1,53 @@
+{
+    "/index": {
+        "id": "no",
+        "title": "彰化百寶村練習"
+    },
+    "/about": {
+        "id": "no",
+        "title": "關於彰化百寶村"
+    },
+    "/head": {
+        "id": "no"
+    },
+    "/menu": {
+        "id": "no"
+    },
+    "/news": {
+        "id": "no",
+        "title": "村民公告"
+    },
+    "/top_select": {
+        "id": "no",
+        "title": "嚴選伴手禮"
+    },
+    "/food": {
+        "id": "no",
+        "title": "特產美食"
+    },
+    "/fun": {
+        "id": "no",
+        "title": "放送頭"
+    },
+    "/life": {
+        "id": "no",
+        "title": "創意生活"
+    },
+    "/culture": {
+        "id": "no",
+        "title": "文化公藝"
+    },
+    "/scenery": {
+        "id": "no",
+        "title": "走透透"
+    },
+    "/food_buy": {
+        "id": "no"
+    },
+    "/life_buy": {
+        "id": "no"
+    },
+    "/culture_buy": {
+        "id": "no"
+    }
+}

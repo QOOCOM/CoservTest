@@ -1,0 +1,143 @@
+body {
+    background-image: url("../../work/img/bg.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+#pgContainer {
+    height: 1760px;
+    margin: 0 auto;
+    width: 960px;
+}
+
+#pgHead {
+    height: 400px;
+    margin: 30px auto;
+    width: 960px;
+}
+
+
+
+#pgLeft {
+    float: left;
+    margin-top: 60px;
+    width: 240px;
+}
+
+
+#pgContent {
+    background: none repeat scroll 0 0 rgba(100%, 100%, 100%, 0.8);
+    border-radius: 15px;
+    box-shadow: 3px 3px 15px 3px #999;
+    height: 1000px;
+    margin-left: 220px;
+    margin-top: 60px;
+}
+
+#content_all {
+    border: 1px solid #000;
+    border-radius: 15px;
+    float: left;
+    height: 960px;
+    position: relative;
+    top: 20px;
+    width: 700px;
+}
+ .content_scroll {
+    float: left;
+    height: 940px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: relative;
+    width: 680px;
+}
+
+
+#title {
+    background-image: url("../../work/img/line.png");
+    background-position: 35px 35px;
+    background-repeat: no-repeat;
+    height: 70px;
+    padding-left: 50px;
+    padding-top: 40px;
+    width: 200px;
+}
+#content {
+    padding-left: 30px;
+    padding-right: 90px;
+    padding-top: 10px;
+}
+
+.Food #content {
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.Food .item {
+    float: left;
+    padding-left: 10px;
+}
+
+.Food .item_pic {
+    text-align: center;
+}
+
+.Food .item_pic img {
+    border: 3px solid #fff;
+    border-radius: 50%;
+    height: 145px;
+    margin-top: 60px;
+    opacity: 0.5;
+    width: 145px;
+}
+
+.Food .item_title {
+    height: 50px;
+    padding-top: 5px;
+    text-align: center;
+    width: 145px;
+}
+
+
+#memo {
+    bottom: 250px;
+    float: right;
+    left: 255px;
+    position: relative;
+    z-index: 3;
+}
+
+#memo_content {
+    bottom: 137px;
+    float: right;
+    font-size: 9pt;
+    line-height: 13pt;
+    position: relative;
+    right: 4px;
+    text-align: center;
+    width: 260px;
+    z-index: 4;
+}
+.blank {
+    height: 40px;
+    width: 10px;
+}
+
+.bottom img {
+    bottom: 250px;
+    position: relative;
+    width: 660px;
+}
+
+#pgFooter {
+    clear: both;
+    margin-top: 140px;
+}
+
+#footer_img {
+    float: right;
+    padding-bottom: 20px;
+    padding-right: 60px;
+}
+
+

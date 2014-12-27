@@ -1,0 +1,67 @@
+#pgHead {
+    background-image: url("../../work/img/index_bg.jpg");
+    background-repeat: no-repeat;
+    height: 829px;
+    margin: 0 auto;
+    width: 1025px;
+}
+
+#logo {
+    height: 236px;
+    left: 400px;
+    position: relative;
+    top: 50px;
+    width: 373px;
+}
+
+#intro {
+    height: 194px;
+    left: 360px;
+    position: relative;
+    top: 230px;
+    width: 327px;
+}
+
+#pgContainer {
+	height: 993px;
+    margin: 0 auto;
+    width: 1025px;
+}
+
+#pgContent {
+	margin-left: 250px;
+	min-height: 300px;
+}
+
+#pgFooter {
+    background-image: url("../../work/img/lines.png");
+    background-repeat: repeat-y;
+    height: 164px;
+    width: 1025px;
+}
+
+#footer_img {
+    height: 164px;
+    padding-top: 30px;
+    width: 1025px;
+}
+
+.cata {
+    color: #9cb05a;
+    font-size: 16pt;
+    font-weight: bold;
+    margin-left: 20px;
+    text-align: center;
+    width: 200px;
+}
+
+.cata a {
+    color: #9cb05a;
+}
+
+#copyright {
+    padding-bottom: 20px;
+    padding-top: 30px;
+    text-align: center;
+    width: 1025px;
+}

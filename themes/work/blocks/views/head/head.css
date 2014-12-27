@@ -1,0 +1,54 @@
+#adblock {
+    border: 0 solid #ccc;
+    height: 310px;
+    left: 15px;
+    margin-top: 15px;
+    overflow: hidden;
+    position: relative;
+    width: 930px;
+}
+
+
+#adblock ul.list {
+    height: 400px;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 99999px;
+}
+
+#adblock ul.list li {
+    float: left;
+    height: 279px;
+    width: 930px;
+}
+
+#adblock ul.list img {
+    height: 100%;
+    width: 100%;
+    border:0;
+}
+
+#adblock ul.playerControl {
+    height: 20px;
+    list-style: none outside none;
+    margin-top: 10px;
+    padding: 0;
+    position: relative;
+    top: 280px;
+}
+
+#adblock ul.playerControl li {
+    background: url(../../work/img/circle_hover.png) no-repeat 0 0;
+    cursor: pointer;
+    float: left;
+    height: 20px;
+    margin: 0 2px;
+    width: 20px;
+}
+
+#adblock ul.playerControl li.current{
+    background: url(../../work/img/circle.png) no-repeat 0 0;
+    background-position: 0 0;
+}

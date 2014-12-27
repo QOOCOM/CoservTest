@@ -1,0 +1,71 @@
+
+
+.cata_master {
+    background-image: url("../../work/img/slider.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+    height: 80px;
+    line-height: 65px;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-top: 5px;
+    position: relative;
+    right: 35px;
+    vertical-align: middle;
+    width: 240px;
+    z-index: 1;
+}
+.cata_master:hover {
+    background-image: url("../../work/img/slider_hover.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+    height: 80px;
+    line-height: 65px;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-top: 5px;
+    position: relative;
+    right: 35px;
+    vertical-align: middle;
+    width: 240px;
+    z-index: 1;
+}
+.cata_shop {
+    background-image: url("../../work/img/slider.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+    height: 80px;
+    line-height: 40px;
+    margin-top: 5px;
+    padding-left: 30px;
+    padding-top: 20px;
+    position: relative;
+    right: 35px;
+    vertical-align: middle;
+    width: 240px;
+}
+
+.cata_sub {
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    white-space: nowrap;
+    width: 196px;
+    z-index: -1;
+}
+
+.cata_sub .one {
+    background-image: url("../../work/img/dropdown_bg_s.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+    bottom: 3px;
+    height: 80px;
+    position: relative;
+    right: 15px;
+    width: 196px;
+}
+
+.cata_master a {
+    height: 80px;
+    width: 240px;
+}
